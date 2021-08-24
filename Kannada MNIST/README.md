@@ -19,7 +19,7 @@ Then, the goal is classify the digit image into the 10 possible classes (from 0 
 
 ## Model
 
-<img src="images/model_plot.png" alt="Model Plot" width="400" height="1500">
+<img src="images/model_plot.png" alt="Model Plot" width="250" height="1000">
 
 ## Results
 
