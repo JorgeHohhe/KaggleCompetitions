@@ -14,7 +14,7 @@ Then, the goal is classify the digit image into the 10 possible classes (from 0 
 ## Dataset
 
 - 60000 samples
-<img src="images/sample_numbers.png" alt="Kannada Digits Sample"  width="1080" height="900">
+<img src="images/sample_numbers.png" alt="Kannada Digits Sample"  width="540" height="450">
 
 ## Used packages
 
