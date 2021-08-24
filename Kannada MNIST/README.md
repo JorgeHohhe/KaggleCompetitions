@@ -23,10 +23,6 @@ Then, the goal is classify the digit image into the 10 possible classes (from 0 
 - Pandas
 - Numpy
 
-## Model
-
-<img src="images/model_plot.png" alt="Model Plot" width="350" height="1250">
-
 ## Results
 
 * Metric: Accuracy
@@ -34,3 +30,7 @@ Then, the goal is classify the digit image into the 10 possible classes (from 0 
 	* 99.41% dev set
 	* 97.43% test set
 	* 77.45% harder test set
+
+## Model
+
+<img src="images/model_plot.png" alt="Model Plot" width="350" height="1250">
