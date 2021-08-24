@@ -19,4 +19,4 @@ Below are summaries of the directories for each competition.
 
 This project is under license. See the [LICENSE](LICENSE) file for more details.
 
-[Back to the top](# 💻 Kaggle Competitions)<br>
+[Back to the top](#💻Kaggle Competitions)<br>
