@@ -13,16 +13,13 @@ Then, the goal is classify the digit image into the 10 possible classes (from 0 
 ## Used packages
 
 - Tensorflow Keras
-
 - Matplotlib
-
 - Pandas
-
 - Numpy
 
 ## Model
 
-<img src="images/model_plot.png" alt="Model Plot">
+<img src="images/model_plot.png" alt="Model Plot" width="100" height="500">
 
 ## Results
 
