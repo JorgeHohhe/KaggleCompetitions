@@ -10,6 +10,10 @@ The goal of the competition is to provide a extension to the classic MNIST compe
 
 Then, the goal is classify the digit image into the 10 possible classes (from 0 to 9).
 
+## Dataset
+
+- 60000 samples
+
 ## Used packages
 
 - Tensorflow Keras
