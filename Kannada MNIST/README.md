@@ -2,8 +2,9 @@
 
 ## Introduction
 
-Kannada-MNIST: A new handwritten digits dataset for the Kannada language.
+Kaggle Competition Link: https://www.kaggle.com/c/Kannada-MNIST
 
+Kannada-MNIST: A new handwritten digits dataset for the Kannada language.
 The goal of the competition is to provide a extension to the classic MNIST competition we're all familiar with. Instead of using Arabic numerals, it uses a dataset of Kannada digits.
 
 <img src="images/kannada_digits.png" alt="Kannada Digits">
